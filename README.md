@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/SinghRaj-07/LeetCode-Solutions/tree/master/0292-nim-game) |
+| [0412-fizz-buzz](https://github.com/SinghRaj-07/LeetCode-Solutions/tree/master/0412-fizz-buzz) |
 ## Brainteaser
 |  |
 | ------- |
@@ -37,4 +38,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/SinghRaj-07/LeetCode-Solutions/tree/master/0292-nim-game) |
+## String
+|  |
+| ------- |
+| [0412-fizz-buzz](https://github.com/SinghRaj-07/LeetCode-Solutions/tree/master/0412-fizz-buzz) |
+## Simulation
+|  |
+| ------- |
+| [0412-fizz-buzz](https://github.com/SinghRaj-07/LeetCode-Solutions/tree/master/0412-fizz-buzz) |
 <!---LeetCode Topics End-->
