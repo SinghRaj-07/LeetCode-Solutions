@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0292-nim-game](https://github.com/SinghRaj-07/LeetCode-Solutions/tree/master/0292-nim-game) |
 | [0412-fizz-buzz](https://github.com/SinghRaj-07/LeetCode-Solutions/tree/master/0412-fizz-buzz) |
+| [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/SinghRaj-07/LeetCode-Solutions/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 ## Brainteaser
 |  |
 | ------- |
@@ -46,4 +47,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0412-fizz-buzz](https://github.com/SinghRaj-07/LeetCode-Solutions/tree/master/0412-fizz-buzz) |
+## Bit Manipulation
+|  |
+| ------- |
+| [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/SinghRaj-07/LeetCode-Solutions/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 <!---LeetCode Topics End-->
