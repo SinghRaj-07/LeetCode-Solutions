@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/SinghRaj-07/LeetCode-Solutions/tree/master/0004-median-of-two-sorted-arrays) |
+| [0217-contains-duplicate](https://github.com/SinghRaj-07/LeetCode-Solutions/tree/master/0217-contains-duplicate) |
 ## Binary Search
 |  |
 | ------- |
@@ -61,4 +62,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0231-power-of-two](https://github.com/SinghRaj-07/LeetCode-Solutions/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/SinghRaj-07/LeetCode-Solutions/tree/master/0326-power-of-three) |
+## Hash Table
+|  |
+| ------- |
+| [0217-contains-duplicate](https://github.com/SinghRaj-07/LeetCode-Solutions/tree/master/0217-contains-duplicate) |
+## Sorting
+|  |
+| ------- |
+| [0217-contains-duplicate](https://github.com/SinghRaj-07/LeetCode-Solutions/tree/master/0217-contains-duplicate) |
 <!---LeetCode Topics End-->
