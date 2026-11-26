@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0412-fizz-buzz](https://github.com/SinghRaj-07/LeetCode-Solutions/tree/master/0412-fizz-buzz) |
+| [0541-reverse-string-ii](https://github.com/SinghRaj-07/LeetCode-Solutions/tree/master/0541-reverse-string-ii) |
 ## Simulation
 |  |
 | ------- |
@@ -70,4 +71,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/SinghRaj-07/LeetCode-Solutions/tree/master/0217-contains-duplicate) |
+## Two Pointers
+|  |
+| ------- |
+| [0541-reverse-string-ii](https://github.com/SinghRaj-07/LeetCode-Solutions/tree/master/0541-reverse-string-ii) |
 <!---LeetCode Topics End-->
