@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/SinghRaj-07/LeetCode-Solutions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0217-contains-duplicate](https://github.com/SinghRaj-07/LeetCode-Solutions/tree/master/0217-contains-duplicate) |
+| [1920-build-array-from-permutation](https://github.com/SinghRaj-07/LeetCode-Solutions/tree/master/1920-build-array-from-permutation) |
 ## Binary Search
 |  |
 | ------- |
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0412-fizz-buzz](https://github.com/SinghRaj-07/LeetCode-Solutions/tree/master/0412-fizz-buzz) |
+| [1920-build-array-from-permutation](https://github.com/SinghRaj-07/LeetCode-Solutions/tree/master/1920-build-array-from-permutation) |
 ## Bit Manipulation
 |  |
 | ------- |
