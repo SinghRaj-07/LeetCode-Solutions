@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/SinghRaj-07/LeetCode-Solutions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0217-contains-duplicate](https://github.com/SinghRaj-07/LeetCode-Solutions/tree/master/0217-contains-duplicate) |
+| [1408-string-matching-in-an-array](https://github.com/SinghRaj-07/LeetCode-Solutions/tree/master/1408-string-matching-in-an-array) |
 | [1920-build-array-from-permutation](https://github.com/SinghRaj-07/LeetCode-Solutions/tree/master/1920-build-array-from-permutation) |
 ## Binary Search
 |  |
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0412-fizz-buzz](https://github.com/SinghRaj-07/LeetCode-Solutions/tree/master/0412-fizz-buzz) |
 | [0541-reverse-string-ii](https://github.com/SinghRaj-07/LeetCode-Solutions/tree/master/0541-reverse-string-ii) |
+| [1408-string-matching-in-an-array](https://github.com/SinghRaj-07/LeetCode-Solutions/tree/master/1408-string-matching-in-an-array) |
 ## Simulation
 |  |
 | ------- |
@@ -77,4 +79,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0541-reverse-string-ii](https://github.com/SinghRaj-07/LeetCode-Solutions/tree/master/0541-reverse-string-ii) |
+## String Matching
+|  |
+| ------- |
+| [1408-string-matching-in-an-array](https://github.com/SinghRaj-07/LeetCode-Solutions/tree/master/1408-string-matching-in-an-array) |
 <!---LeetCode Topics End-->
